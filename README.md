@@ -16,11 +16,13 @@ This repository is my journey of exploring Python through hands-on projects cove
 
 ## 📂 Project List
 
-| #   | Project Name         | Description                                                                  | Status  |
-| --- | -------------------- | ---------------------------------------------------------------------------- | ------- |
-| 1   | Band Name Generator  | A beginner project that generates a cool band name by combining user inputs. | ✅ Done |
-| 2   | Tip Calculator       | A simple calculator to split bills and calculate tips based on percentage.   | ✅ Done |
-| 3   | Treasure Island Game | A text-based adventure game where choices decide if you find the treasure.   | 🚧 WIP  |
+| #   | Project Name                   | Description                                                         |  Status |
+|-----|--------------------------------|---------------------------------------------------------------------|---------|
+| 1   | Band Name Generator            | Generate fun band names by combining user inputs and random words.  | ✅ Done |
+| 2   | Tip Calculator                 | Calculate total bill, tip amount, and split between people.         | ✅ Done |
+| 3   | Treasure Island Game           | Text-based adventure where player choices determine the outcome.    | ✅ Done |
+| 4   | Rock Paper Scissors            | Play the classic game against the computer with score tracking.     | ✅ Done |
+| 4   | Password Generator             | Create secure random passwords with length & complexity options.    | 🚧 WIP  |
 
 ---
 

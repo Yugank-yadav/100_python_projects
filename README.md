@@ -16,13 +16,14 @@ This repository is my journey of exploring Python through hands-on projects cove
 
 ## 📂 Project List
 
-| #   | Project Name                   | Description                                                         |  Status |
-|-----|--------------------------------|---------------------------------------------------------------------|---------|
-| 1   | Band Name Generator            | Generate fun band names by combining user inputs and random words.  | ✅ Done |
-| 2   | Tip Calculator                 | Calculate total bill, tip amount, and split between people.         | ✅ Done |
-| 3   | Treasure Island Game           | Text-based adventure where player choices determine the outcome.    | ✅ Done |
-| 4   | Rock Paper Scissors            | Play the classic game against the computer with score tracking.     | ✅ Done |
-| 4   | Password Generator             | Create secure random passwords with length & complexity options.    | 🚧 WIP  |
+| #   | Project Name         | Description                                                        | Status  |
+| --- | -------------------- | ------------------------------------------------------------------ | ------- |
+| 1   | Band Name Generator  | Generate fun band names by combining user inputs and random words. | ✅ Done |
+| 2   | Tip Calculator       | Calculate total bill, tip amount, and split between people.        | ✅ Done |
+| 3   | Treasure Island Game | Text-based adventure where player choices determine the outcome.   | ✅ Done |
+| 4   | Rock Paper Scissors  | Play the classic game against the computer with score tracking.    | ✅ Done |
+| 5   | Password Generator   | Create secure random passwords with length & complexity options.   | ✅ Done |
+| 6   | Escape the Maze      | Simple maze navigation game with keyboard controls.                | 🚧 WIP  |
 
 ---
 
@@ -36,9 +37,9 @@ This repository is my journey of exploring Python through hands-on projects cove
 
 ## 📈 Progress Tracker
 
-- ✅ Completed: 2 / 100
+- ✅ Completed: 5 / 100
 - 🚧 In Progress: 1
-- 🔜 Upcoming: 97
+- 🔜 Upcoming: 94
 
 ---
 

@@ -20,10 +20,10 @@ for symb in range(1, nr_symbols + 1):
 for num in range(1, nr_numbers + 1):
     password_list.append(random.choice(numbers))
 
-hard_password = random.shuffle(password_list)
+random.shuffle(password_list)
 
 my_pass = ""
 for i in password_list:
     my_pass += i
-print(f"Your password is: {password}")
+print(f"Your password is: {my_pass}")
     
